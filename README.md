@@ -1,6 +1,9 @@
 <h1 align="center"> Hi there, I'm Zeynep 👋</h1> 
-<h3 align="center"> I'm a second-year Computer Engineering student at Karabuk University. 👩‍🎓💻
-I'm always positive, fast learning, dynamic, solution-oriented, teamwork, not afraid to take responsibility, and a perfectionist. 💫</h3>
+<h3 align="center"> I'm a second-year Computer Engineering student at Karabuk University. 👩‍🎓💻</h3>
+
+<p align="center">
+  <img src="programmer_girl.jpeg" width="800" height="400">
+</p>
 
 - 🔭 I’m currently working on Dry Cleaning Database System Project.
 
