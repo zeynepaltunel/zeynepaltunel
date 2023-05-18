@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm Zeynep 👋</h1> 
-<h3 align="center"> I'm a second-year Computer Engineering student at Karabuk University. 👩‍🎓
+<h3 align="center"> I'm a second-year Computer Engineering student at Karabuk University. 👩‍🎓💻
 I'm always positive, fast learning, dynamic, solution-oriented, teamwork, not afraid to take responsibility, and a perfectionist. 💫</h3>
 
 - 🔭 I’m currently working on Dry Cleaning Database System Project.
@@ -28,5 +28,6 @@ I'm always positive, fast learning, dynamic, solution-oriented, teamwork, not af
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>    
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
 </p>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepaltunel&layout=compact)](https://github.com/zeynepaltunel/github-readme-stats)
