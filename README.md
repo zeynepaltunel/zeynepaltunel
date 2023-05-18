@@ -16,7 +16,7 @@ I'm always positive, fast learning, dynamic, solution-oriented, teamwork, not af
 <br />
 
 [linkedin]: https://www.linkedin.com/in/zeynepaltunel/
-[gmail]: zeynepaltunel23@gmail.com
+[gmail]: mailto:zeynepaltunel23@gmail.com
 
 <br />
 
