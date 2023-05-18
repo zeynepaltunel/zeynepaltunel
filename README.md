@@ -28,6 +28,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepaltunel&layout=compact)](https://github.com/zeynepaltunel/github-readme-stats)
 
-</br>
-
 ![Snake animation](https://github.com/zeynepaltunel/zeynepaltunel/blob/output/github-contribution-grid-snake.svg)
