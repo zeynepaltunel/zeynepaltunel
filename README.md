@@ -2,7 +2,7 @@
 <h3 align="center"> I'm a second-year Computer Engineering student at Karabuk University. 👩‍🎓💻</h3>
 
 <p align="center">
-  <img src="programmer_girl.jpeg" width="800" height="400">
+  <img src="programmer_girl.jpeg" width="600" height="300">
 </p>
 
 - 🔭 I’m currently working on Dry Cleaning Database System Project.
