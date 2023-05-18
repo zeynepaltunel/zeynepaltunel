@@ -8,17 +8,11 @@ I'm always positive, fast learning, dynamic, solution-oriented, teamwork, not af
 
 - ⚡ Fun fact: I love to read 📖, play chess ♟, cook 👩‍🍳 and walk 🚶‍♀️
 
-### Connect with me:
-
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" height="24" width="24" src="gmail.png" />][gmail]
-
-<br />
-
-[linkedin]: https://www.linkedin.com/in/zeynepaltunel/
-[gmail]: mailto:zeynepaltunel23@gmail.com
-
-<br />
+### 📫 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/zeynepaltunel/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="zeynepaltunel" height="40" width="40" /> </a>  
+<a href="mailto:zeynepaltunel23@gmail.com" target="blank" rel="noreferrer"> <img src="gmail.png" alt="zeynepaltunel23" height="40" width="40" /> </a>
+</p>
 
 ## 🧰 Languages and Tools:
 <p align="left">
