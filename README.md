@@ -14,9 +14,8 @@
 ### 📫 Connect with me:
 <p align="left">
   
-<a href="https://www.linkedin.com/in/zeynepaltunel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeynepaltunel" height="30" width="40" /></a>
-<a href="mailto:zeynepaltunel23@gmail.com" target="blank" rel="noreferrer"> <img src="gmail.png" alt="zeynepaltunel23" height="40" width="40" /> </a>
-
+<a href="https://www.linkedin.com/in/zeynepaltunel/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="zeynepaltunel" height="30" width="40" /></a>
+<a href="mailto:zeynepaltunel23@gmail.com" target="blank" rel="noreferrer"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" alt="zeynepaltunel" height="50" width="50" /></a>
 </p>
 
 ### 🧰 Languages and Tools:
