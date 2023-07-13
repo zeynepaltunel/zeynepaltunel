@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Dry Cleaning Database System Project and World Cuisine Website.
 
-- 🌱 I’m currently learning <b>HTML, CSS, JavaScript and PHP</b>. 
+- 🌱 I’m currently learning <b>HTML, CSS and JavaScript</b>. 
 
 - ⚡ Fun fact: I love to read 📖, play chess ♟, cook 👩‍🍳 and walk 🚶‍♀️
 
