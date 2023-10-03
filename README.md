@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm Zeynep 👋</h1> 
-<h3 align="center"> I'm a second-year Computer Engineering student at Karabuk University. 👩‍🎓💻</h3>
+<h3 align="center"> I'm a third-year Computer Engineering student at Karabuk University. 👩‍🎓💻</h3>
 
 <p align="center">
   <img src="programmer_girl.jpeg" width="600" height="300">
