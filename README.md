@@ -1,13 +1,13 @@
 <h1 align="center"> Hi there, I'm Zeynep 👋</h1> 
-<h3 align="center"> I'm a third-year Computer Engineering student at Karabuk University. 👩‍🎓💻</h3>
+<h3 align="center"> I'm a fourth-year Computer Engineering student at Karabuk University. 👩‍🎓💻</h3>
 
 <p align="center">
   <img src="programmer_girl.jpeg" width="600" height="300">
 </p>
 
-- 🔭 I’m currently working on Dry Cleaning Database System Project and World Cuisine Website.
+- 🔭 I’m currently working on Cyber Security Based Log Analysis and Anomaly Detection System Project.
 
-- 🌱 I’m currently learning <b>HTML, CSS and JavaScript</b>. 
+- 🌱 I’m currently intersted in <b>Cyber Secuirty</b>. 
 
 - ⚡ Fun fact: I love to read 📖, play chess ♟, cook 👩‍🍳 and walk 🚶‍♀️
 
