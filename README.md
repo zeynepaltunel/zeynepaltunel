@@ -3,10 +3,6 @@
 Computer Engineering Student | Global IT Support Specialist | Cybersecurity Enthusiast
 </h3>
 
-<p align="center">
-  <img src="programmer_girl.jpeg" width="600" height="300">
-</p>
-
 ---
 
 ### 👩‍💻 About Me
