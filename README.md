@@ -85,6 +85,4 @@ Computer Engineering Student | Global IT Support Specialist | Cybersecurity Enth
 
 ---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepaltunel&layout=compact)](https://github.com/zeynepaltunel)
-
 ![](https://komarev.com/ghpvc/?username=zeynepaltunel&style=for-the-badge)
