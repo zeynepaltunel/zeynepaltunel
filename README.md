@@ -1,84 +1,259 @@
-<h1 align="center"> Hi there, I'm Zeynep 👋</h1> 
-<h3 align="center">
-Computer Engineering Student | Global IT Support Specialist | Cybersecurity Enthusiast
-</h3>
+<div align="center">
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24&text=Zeynep%20Altunel&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-### 👩‍💻 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Computer+Engineer;Global+IT+Support+Specialist;Cybersecurity+%F0%9F%9B%A1;Artificial+Intelligence+%F0%9F%A4%96;Enterprise+IT+%7C+Cloud;Building+Secure+Systems)](https://git.io/typing-svg)
 
-- 💼 Global IT Support Specialist at **Azerion**  
-- 🔐 Actively working on **Cybersecurity-based Log Analysis and Anomaly Detection Systems**  
-- 🛠 Managing **Google Workspace Admin** environments in a global organization  
-- 🌍 Providing IT support in an international, remote-first environment  
-
----
-
-### 🔍 Current Focus
-
-- Cybersecurity & Network Security  
-- Log Analysis & Intrusion Detection Systems (IDS)
-- Real-time monitoring & security dashboards  
-- IT
-
----
-
-### 🚀 Featured Project
-
-🔐 **CyberZey – Cybersecurity Log Analysis & Intrusion Detection System**
-
-- Centralized log collection from Windows 10 & Windows Server systems  
-- Backend API built with **Flask**  
-- **MSSQL** database for high-volume log storage  
-- Anomaly detection using **Isolation Forest**  
-- Real-time visualization & dashboards with **Chart.js**  
-
----
-
-### 🧰 Languages & Tools
-
-<p align="left">
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a>
-</p>
-
----
-
-### 🏢 Professional Experience
-
-**Global IT Support Specialist – Azerion**
-
-- Managing **Google Workspace Admin** (users, groups, security policies)  
-- Supporting global teams with access, device, and software issues  
-- Working with identity & device management tools (e.g., **JumpCloud**)  
-- Handling IT tickets, troubleshooting, and operational support processes  
-
----
-
-### ⚡ Fun Facts
-
-- 📖 I love reading
-- 👩‍🍳 Cooking is one of my hobbies  
-- 🚶‍♀️ I like long walks  
-
----
-
-### 📫 Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/zeynepaltunel/" target="_blank">
-<img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" height="30" width="40" />
+<p>
+<a href="https://www.linkedin.com/in/zeynepaltunel">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="mailto:zeynepaltunel23@gmail.com" target="_blank">
-<img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" height="40" width="40" />
+&nbsp;&nbsp;
+<a href="mailto:zeynepaltunel23@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=zeynepaltunel&style=for-the-badge&color=0E9EFF"/>
+
+</div>
+
 ---
 
-![](https://komarev.com/ghpvc/?username=zeynepaltunel&style=for-the-badge)
+# 👩🏻‍💻 About Me
+
+```yaml
+Name: Zeynep Altunel
+
+Role:
+  Global IT Support Specialist @ Azerion
+
+Education:
+  B.Sc. Computer Engineering
+
+Specialization:
+  • Cybersecurity
+  • Artificial Intelligence
+  • Enterprise IT
+  • Cloud Technologies
+
+Currently:
+  • Google Workspace Administration
+  • Identity & Access Management
+  • AI-powered Intrusion Detection Systems
+  • Security Engineering
+```
+
+---
+
+# 🚀 Current Focus
+
+| 🛡 Cybersecurity | 🤖 Artificial Intelligence | ☁ Enterprise IT |
+|:----------------|:--------------------------|:----------------|
+| Threat Detection | Machine Learning | Google Workspace |
+| SIEM | Isolation Forest | Identity Management |
+| Intrusion Detection | TensorFlow | Endpoint Management |
+| Threat Intelligence | PyTorch | IT Automation |
+| Security Monitoring | XGBoost | Cloud Administration |
+| Log Analysis | Scikit-Learn | Infrastructure |
+
+---
+
+# ⚙️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,cs,cpp,js,html,css,bash,powershell&theme=dark"/>
+
+### Frameworks
+
+<img src="https://skillicons.dev/icons?i=flask,dotnet,react&theme=dark"/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48"/>
+
+### DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark"/>
+
+</div>
+
+---
+
+# 🛡 Security Stack
+
+```text
+✔ Google Workspace Administration
+✔ JumpCloud
+✔ Windows Server
+✔ Active Directory
+✔ DNS / DHCP
+✔ Splunk
+✔ Sysmon
+✔ Nessus
+✔ MITRE ATT&CK
+✔ Threat Intelligence
+✔ Identity & Access Management
+✔ Endpoint Administration
+✔ Incident Response
+✔ Security Monitoring
+```
+
+---
+
+# 🤖 AI Stack
+
+```text
+🧠 TensorFlow
+🧠 PyTorch
+🧠 Scikit-Learn
+🧠 Hugging Face
+🧠 Isolation Forest
+🧠 Random Forest
+🧠 XGBoost
+🧠 AI-powered Threat Detection
+```
+
+---
+
+# 🚀 Featured Project
+
+## 🔐 CyberZey
+
+> **AI-powered Intrusion Detection & Security Monitoring Platform**
+
+```text
+✔ Windows Event Logs
+✔ Sysmon Integration
+✔ Flask REST API
+✔ Microsoft SQL Server
+✔ Isolation Forest
+✔ Brute Force Detection
+✔ Reverse Shell Detection
+✔ Real-time Dashboard
+✔ Machine Learning Pipeline
+✔ Chart.js Visualization
+```
+
+---
+
+# 💼 Professional Experience
+
+## 🌍 Global IT Support Specialist — Azerion
+
+- Google Workspace Administration
+- Identity & Access Management (IAM)
+- User Lifecycle Management
+- Endpoint Administration
+- License Management
+- IT Process Automation
+- International User Support
+- Enterprise Infrastructure Operations
+
+---
+
+# 📚 Currently Learning
+
+```text
+Security Engineering
+
+Cloud Security
+
+Azure
+
+Network Security
+
+Threat Hunting
+
+Detection Engineering
+
+Microsoft Defender
+
+Kubernetes
+
+AI Security
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zeynepaltunel&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=zeynepaltunel&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=zeynepaltunel&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=zeynepaltunel&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/zeynepaltunel/zeynepaltunel/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📌 Featured Repositories
+
+| Project | Description |
+|---------|-------------|
+| 🔐 CyberZey | AI-powered Intrusion Detection System |
+| 🤖 AI for Cybersecurity | Machine Learning security experiments |
+| 🛡 Detection Engineering | Detection rules & security analytics |
+| ⚡ PowerShell Automation | Enterprise IT automation |
+| ☁ Google Workspace Scripts | Admin automation |
+| 🐍 Python Security Tools | Security utilities |
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/zeynepaltunel">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50"/>
+</a>
+
+
+<a href="mailto:zeynepaltunel23@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="50"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"Turning data into intelligence, and intelligence into security."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient&customColorList=24,20,12"/>
+
+</div>
