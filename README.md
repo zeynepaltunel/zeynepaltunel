@@ -50,12 +50,14 @@ Currently:
 
 | 🛡 Cybersecurity | 🤖 Artificial Intelligence | ☁ Enterprise IT |
 |:----------------|:--------------------------|:----------------|
-| Threat Detection | Machine Learning | Google Workspace |
-| SIEM | Isolation Forest | Identity Management |
-| Intrusion Detection | TensorFlow | Endpoint Management |
-| Threat Intelligence | PyTorch | IT Automation |
-| Security Monitoring | XGBoost | Cloud Administration |
-| Log Analysis | Scikit-Learn | Infrastructure |
+| Threat Detection | 🤖 LLM Workflows | Google Workspace |
+| SIEM | 🧠 Prompt Engineering | Identity Management |
+| Intrusion Detection | ⚡ AI Tool Development | Endpoint Management |
+| Threat Intelligence | 🔍 AI-assisted Research | IT Automation |
+| Security Monitoring | 🛠 AI Automation | Cloud Administration |
+| Log Analysis | 📊 LLM Evaluation | Infrastructure |
+| Detection Engineering | 🔄 Workflow Optimization | |
+| Security Analytics | 💬 Claude • ChatGPT • Gemini | |
 
 ---
 
